@@ -62,7 +62,7 @@
 
 - [(PL) Node.js - developing advanced applications using NestJS](https://bottega.com.pl/szkolenie-nestjs)
 
-#### Tutorials
+#### Tutorials（教程）
 
 - NestJS content on Dev.to: [articles made by the core team](https://dev.to/nestjs); [articles made by the community](https://dev.to/t/nestjs).
 - [Blog of Trilon](https://trilon.io/blog) (NestJS creator's company).
@@ -80,7 +80,7 @@
 - YouTube playlist by Codeforges TM: [Angular + NestJs Tutorials](https://www.youtube.com/playlist?list=PLq1kZ5GbKd4qyDcK3IHGSi4FDAL6fRZeL) - Building a full-stack blog with NestJS, Angular and Angular Material.
 - Udemy free course: [The complete NestJS developer. Enterprise Node.js framework](https://www.udemy.com/course/the-complete-nestjs-developer-enterprise-nodejs-framework/) - The complete guide for developers how to create enterprise ready applications using NestJS framework.
 
-#### Examples
+#### Examples（例子）
 
 - [ChatServer](https://github.com/Pinedo11/nestDemo-ChatServer) - Server side of Chat App implemented using NestJS.
 - [Domain Driven Design - Library](https://github.com/Sikora00/ddd-by-examples-library-nestjs) - Example of an application that follows Domain Driven Design.
@@ -106,7 +106,7 @@
 - [NestJS Apps Collection](https://github.com/Tony133/nestjs-apps-collection) - Collection example apps with NestJS and Typeorm, Mongodb, PostgreSQL, GraphQL, Mercurius, etc. for the NestJS community
 - [Lyricstify](https://github.com/lyricstify/lyricstify) - Command line based application to show synchronized Spotify lyrics in your terminal. Built with Node, TypeScript, Nest Commander & RxJs.
 
-#### Boilerplate
+#### Boilerplate（样板文件）
 
 - [🧪 Fully tested NestJS Prisma Clean Architecture Boilerplate](https://github.com/VincentJouanne/nest-clean-architecture-ddd-example) - This boilerplate shows how to test your NestJS API with unit, integration and e2e tests. Use-cases are written in functionnal programming with FP-TS.
 - [NestJS Permission Boilerplate](https://github.com/Ferdysd96/nestjs-permission-boilerplate) - This is a basic NestJS boilerplate project built on the more powerful Node.js framework. The main purpose of this project is to dynamically handle roles and permissions assigned to the user.
